@@ -1,0 +1,24 @@
+#canvas {
+    border: solid 5px white;
+    background: linear-gradient(rgb(231, 47, 47), rgb(241, 243, 105));
+    width: 100%;
+    align-items: center;
+}
+body{
+    background-color: black;
+}
+#Letras {
+    position: absolute;
+    color: white;
+}
+#canvas2{
+    width: 100%;
+}
+#canvas3{
+    margin-top: 20px;
+    border-radius: solid 1px black;
+    background-color: rgb(253, 245, 236);
+}
+#body{
+    background-color: white;
+}
